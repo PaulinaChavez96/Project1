@@ -1,0 +1,5 @@
+Project 1: Build a To-do List App.
+
+This project will be the main script in which I will be working as part 1 of the Python certification. As I advance on the course, I will be making edits on this file.
+ 
+The app will let the user visualize the items on the list, as well as add, edit and complete items. I've created custom functions to help avoid repititive coding.
