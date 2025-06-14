@@ -6,6 +6,6 @@ The app will let the user visualize the items on the list, as well as add, edit 
 
 WHAT I'VE LEARNED...
 1. Storing items on text files.
-2. Custom functions to help avoid repititive coding.
-3. Anticipating program Errors.
-4. Optimizing the code.
+2. Anticipating program Errors.
+3. Custom functions to help avoid repititive coding.
+4. Optimizing the code using module imports.
