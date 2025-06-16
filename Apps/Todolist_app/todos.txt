@@ -1,0 +1,5 @@
+clean
+throw
+shower
+dry
+Cook
